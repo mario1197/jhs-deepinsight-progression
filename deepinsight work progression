@@ -9,4 +9,7 @@ We can terminate the record by clicking x button(not ctrl+x).
 When we finish the record, then the code automatically saves the video of human and the angle of the sensor.
 
 --> next... what?
-maybe we have to compare the sensor angle and the head pose angle.
+1. I just showed the direction of head pose with headpose example code. 
+I think I have to show the direction of sensor.
+
+2. maybe we have to compare the sensor angle and the head pose angle. (frame by frame)
