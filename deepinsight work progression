@@ -1,0 +1,12 @@
+I created video which shows the head pose of human and save the angle of the sensor.
+
+When we run videocap.py file,if we click the ctrl+x button, then we start recording of the head pose and recording the angle of the sensor cuncurrently. 
+
+Video shows the head pose of the human as arrowline. 
+
+We can terminate the record by clicking x button(not ctrl+x).
+
+When we finish the record, then the code automatically saves the video of human and the angle of the sensor.
+
+--> next... what?
+maybe we have to compare the sensor angle and the head pose angle.
